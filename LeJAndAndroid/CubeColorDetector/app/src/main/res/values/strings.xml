@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CubeColorDetector</string>
+    <string name="title_activity_main">CubeColorDetector</string>
+    <string name="up_button">" U "</string>
+    <string name="down_button">" D "</string>
+    <string name="left_button">" L "</string>
+    <string name="right_button">" R "</string>
+    <string name="setting_button">" C "</string>
+</resources>
